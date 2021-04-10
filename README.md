@@ -1,6 +1,7 @@
-### Hi there, I'm Alex
+### Hi there, this is Alex's Github
 
-## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
+### Who am I?
+I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
 - I'm currently working at [Gamebench][gamebench_link]
 - On my spare time, I try to build my own indie game 🌟
 - I am interested in everything to do with technology and/or history 🏰
@@ -13,9 +14,9 @@
 
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
-## Languages and environments I use
+### Languages and environments I use
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java
@@ -31,7 +32,7 @@
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
 
 
-## Tools
+### Tools
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/blender.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />
@@ -56,10 +57,12 @@
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlemeet.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
 
+
 <br/>
 
-### Find me at:
+## Find me at:
 [<img align="left" alt="my LinkedIn |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin_link]
+
 
 ---
 <!-- This is commented -->
