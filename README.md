@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
 - I'm currently working at Gamebench [www.gamebench.net]
-- On my spare time, I try to build my own indie game &#1F31F
+- On my spare time, I try to build my own indie game 🌟
 - I am interested in everything to do with technology and/or history &#1F3F0
 - 3D printing afficionado &#1F680
 - Deep Learning practicioner &#1F4C9
