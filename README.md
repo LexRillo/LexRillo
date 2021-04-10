@@ -59,7 +59,7 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 <br/>
 
-## Find me at:
+### Find me at:
 
 [<img align="left" alt="my LinkedIn |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin_link]
 
