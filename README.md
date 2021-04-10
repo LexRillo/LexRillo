@@ -67,7 +67,9 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 <br/>
 <br/>
+
 ---
+
 <!-- This is commented -->
 <!--<img align="left" alt = "my Github Stats" src="https://github-readme-stats.vercel.app/api?username=LexRillo&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
