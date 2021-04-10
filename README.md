@@ -1,34 +1,64 @@
 ### Hi there, I'm Alex
 
-## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging)
+## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
 - I'm currently working at Gamebench [www.gamebench.net]
-- On my spare time, I try to build my own indie game ▼
-- I am interested in everything to do with technology and/or history ­
-- I'm looking to collaborate in Open source projects, especially in the world of 3D graphics and image processing
-- To wind down I like to play the guitar ©, bike or play some videogames with my friends «
-- 2020 Goals: Improve my Python and C++ knowledge to become an expert at them. 0xD83E 0xDD45
+- On my spare time, I try to build my own indie game &#1F31F
+- I am interested in everything to do with technology and/or history &#1F3F0
+- 3D printing afficionado &#1F680
+- Deep Learning practicioner &#1F4C9
+- Accademic of AR &# 1F933 and immersive experiences &#1F47E
+- I'm looking to collaborate in Open source projects &#1F4D1, especially in the world of 3D graphics &#1F4D0 and image processing &#1F4F8
+- To wind down I like to play the guitar &#1F3B8, bike &#1F6B4 or play some videogames with my friends &#1F3AE
+- 2020 Goals &#1F945: Improve my Python and C++ knowledge to become an expert at them.
 
 <br/>
 
-### Languages and Tools I use:
+### Languages and Tools:
 
-- Python
-- PyCharm
-- Blender
-- Visual Studio Code
-- C++
-- Java
+## Languages and environments I use
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code> Matlab
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> C# 
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> Android/ Android Debug Bridge (adb)
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> MySQL
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code> R
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code> Windows
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> Linux
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> HTML
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> CSS
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+## Tools
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/blender.svg" /> &#26A1
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/godot.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gimp.svg" />
 
 <br/>
 
-### Connect with me:
+### Find me at:
 [<img align="left" alt="my LinkedIn |LinkedIn" width="22px" src="https:://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+<!-- This is commented -->
+<!--<img align="left" alt = "my Github Stats" src="https://github-readme-stats.vercel.app/api?username=LexRillo&show_icons=true&hide_border=true&hide=stars&count_private=true" />
+
 <br/>
-[linkedin]: the page
+
+[linkedin]: the page-->
+
+<details><summary> More about me:</summary>
+- DotA 2 player active since 2013
+</details>
+
+<details><summary> Created with coffee and inspired by:</summary>
+	https://www.youtube.com/watch?v=ECuqb5Tv9qI
+	https://www.youtube.com/watch?v=n6d4KHSKqGk 
+</details>
