@@ -37,11 +37,13 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" /> ⚡
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/godot.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/godotengine.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" /> 🤬
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gimp.svg" />
-🤷
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" /> 🤷
+
 <br/>
 
 ### Find me at:
