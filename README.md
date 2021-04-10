@@ -35,6 +35,7 @@
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/blender.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/anaconda.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/godotengine.svg" />
@@ -43,9 +44,13 @@
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gimp.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/autodesk.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gog-dot-com.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/slack.svg" />
-	🤗	⚡									🤬					🤷
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googledrive.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlehangouts.svg" />
+🤗⚡🤬🤷
 <br/>
 
 ### Find me at:
