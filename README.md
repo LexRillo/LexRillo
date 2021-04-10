@@ -1,4 +1,4 @@
-### Hi there, this is Alex's Github
+### Hi there, this is Alex's Github 👋
 
 ### Who am I?
 I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
@@ -58,6 +58,7 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
 
 <br/>
+<br/>
 
 ---
 ## Find me at:
@@ -66,7 +67,6 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 <br/>
 <br/>
-
 ---
 <!-- This is commented -->
 <!--<img align="left" alt = "my Github Stats" src="https://github-readme-stats.vercel.app/api?username=LexRillo&show_icons=true&hide_border=true&hide=stars&count_private=true" />
@@ -76,7 +76,12 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 
 <details><summary> More about me:</summary>
-- DotA 2 player active since 2013
+	- Videogame maniac. From engines to design, videogames are an obsession for me.
+	- Movie aficionado. I try to watch everygood movie from the 1950s until now.
+	- My languages: Spanish, Italian and English. Trying to learn Japanese.
+	- Background in Chemical Engineering. No longer interested in the engineering side but still love Chemistry. It's complicated 🤣.
+	- I love puzzles and mathematical or not. I guess that's why I also love (data) compression and encryption.
+	- DotA 2 player active since 2013. Getting better. Slowly.😢
 </details>
 
 <details><summary> Created with coffee and inspired by:</summary>
