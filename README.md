@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex
 
 ## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
-- I'm currently working at Gamebench [www.gamebench.net]
+- I'm currently working at [Gamebench][gamebench_link]
 - On my spare time, I try to build my own indie game 🌟
 - I am interested in everything to do with technology and/or history 🏰
 - 3D printing afficionado 🚀
@@ -59,15 +59,15 @@
 <br/>
 
 ### Find me at:
-[<img align="left" alt="my LinkedIn |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][https://www.linkedin.com/in/alejandro-cirillo-sanchez-b82a44185/]
+[<img align="left" alt="my LinkedIn |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin_link]
 
 ---
 <!-- This is commented -->
 <!--<img align="left" alt = "my Github Stats" src="https://github-readme-stats.vercel.app/api?username=LexRillo&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
-<br/>
+<br/>-->
 
-[linkedin]: the page-->
+
 
 <details><summary> More about me:</summary>
 - DotA 2 player active since 2013
@@ -77,3 +77,6 @@
 	https://www.youtube.com/watch?v=ECuqb5Tv9qI
 	https://www.youtube.com/watch?v=n6d4KHSKqGk 
 </details>
+
+[linkedin_link]: https://www.linkedin.com/in/alejandro-cirillo-sanchez-b82a44185/
+[gamebench_link]: www.gamebench.net
