@@ -3,13 +3,13 @@
 ## I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
 - I'm currently working at Gamebench [www.gamebench.net]
 - On my spare time, I try to build my own indie game 🌟
-- I am interested in everything to do with technology and/or history &#1F3F0
-- 3D printing afficionado &#1F680
-- Deep Learning practicioner &#1F4C9
-- Accademic of AR &# 1F933 and immersive experiences &#1F47E
-- I'm looking to collaborate in Open source projects &#1F4D1, especially in the world of 3D graphics &#1F4D0 and image processing &#1F4F8
-- To wind down I like to play the guitar &#1F3B8, bike &#1F6B4 or play some videogames with my friends &#1F3AE
-- 2020 Goals &#1F945: Improve my Python and C++ knowledge to become an expert at them.
+- I am interested in everything to do with technology and/or history 🏰
+- 3D printing afficionado 🚀
+- Deep Learning practicioner 📉
+- Accademic of AR 🤳 and immersive experiences 👾
+- I'm looking to collaborate in Open source projects 📑, especially in the world of 3D graphics 📐 and image processing 📸
+- To wind down I like to play the guitar 🎸, bike 🚴 or play some videogames with my friends 🎮
+- 2020 Goals 🥅: Improve my Python and C++ knowledge to become an expert at them.
 
 <br/>
 
@@ -32,16 +32,16 @@
 
 
 ## Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" /> &#26A1
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/blender.svg" /> &#26A1
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/blender.svg" /> 🤗
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" /> ⚡
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jupyter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/godot.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" /> 🤬
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gimp.svg" />
-
+🤷
 <br/>
 
 ### Find me at:
