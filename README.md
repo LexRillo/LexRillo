@@ -79,10 +79,15 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 <details><summary> More about me:</summary>
 	- Videogame maniac. From engines to design, videogames are an obsession for me.
+	
 	- Movie aficionado. I try to watch everygood movie from the 1950s until now.
+	
 	- My languages: Spanish, Italian and English. Trying to learn Japanese.
+	
 	- Background in Chemical Engineering. No longer interested in the engineering side but still love Chemistry. It's complicated 🤣.
+	
 	- I love puzzles and mathematical or not. I guess that's why I also love (data) compression and encryption.
+	
 	- DotA 2 player active since 2013. Getting better. Slowly.😢
 </details>
 
