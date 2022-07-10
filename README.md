@@ -2,15 +2,16 @@
 
 ### Who am I?
 I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Imaging) with unending thirst for knowledge.
-- I'm currently working at [Gamebench][gamebench_link]
+- I'm currently working at [Envisics][envisics_link]
 - On my spare time, I try to build my own indie game 🌟
 - I am interested in everything to do with technology and/or history 🏰
 - 3D printing afficionado 🚀
 - Deep Learning practicioner 📉
+- Amateur composer 📉
 - Accademic of AR 🤳 and immersive experiences 👾
 - I'm looking to collaborate in Open source projects 📑, especially in the world of 3D graphics 📐 and image processing 📸
-- To wind down I like to play the guitar 🎸, bike 🚴 or play some videogames with my friends 🎮
-- 2020 Goals 🥅: Improve my Python and C++ knowledge to become an expert at them.
+- To wind down I like to play the guitar 🎸, bike 🚴 or enjoy videogames 🎮
+- 2022 Goals 🥅: Improve my C++ \ C# knowledge to become an expert at them. Also trying to learn Rust
 
 <br/>
 
@@ -30,6 +31,7 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> HTML
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> CSS
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/rust.png"></code> Rust
 
 
 ### Tools
@@ -56,6 +58,7 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlehangouts.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlemeet.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
 
 <br/>
 <br/>
@@ -72,7 +75,7 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 <!-- This is commented -->
 <!--<img align="left" alt = "my Github Stats" src="https://github-readme-stats.vercel.app/api?username=LexRillo&show_icons=true&hide_border=true&hide=stars&count_private=true" />
-
+<!-- for github stats https://github.com/simple-icons/simple-icons />
 <br/>-->
 
 
@@ -80,13 +83,13 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 <details><summary> More about me:</summary>
 	- Videogame maniac. From engines to design, videogames are an obsession for me.
 	
-	- Movie aficionado. I try to watch everygood movie from the 1950s until now.
+	- Movie aficionado. I try to watch every good movie from the 1950s until now.
 	
 	- My languages: Spanish, Italian and English. Trying to learn Japanese.
 	
 	- Background in Chemical Engineering. No longer interested in the engineering side but still love Chemistry. It's complicated 🤣.
 	
-	- I love puzzles and mathematical or not. I guess that's why I also love (data) compression and encryption.
+	- I love puzzles - mathematical or not. I guess that's why I also love (data) compression and encryption.
 	
 	- DotA 2 player active since 2013. Getting better. Slowly.😢
 </details>
@@ -98,3 +101,4 @@ I'm a Software Engineer specialised in Imaging (Computer Graphics, Vision and Im
 
 [linkedin_link]: https://www.linkedin.com/in/alejandro-cirillo-sanchez-b82a44185/
 [gamebench_link]: www.gamebench.net
+[envisics_link]: www.envisics.com
